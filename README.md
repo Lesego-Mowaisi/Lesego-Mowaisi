@@ -22,7 +22,7 @@ Aspiring DevOps engineer — bridging development, deployment, and automation
 ## Projects
 
 ### 🛠️ Tech Troubleshooting
-A personal knowledge base of real technical problems I've encountered — with research-backed fixes and lessons learned. Covers Windows recovery, Android Studio emulator issues, and more.  
+A personal knowledge base of real technical problems I've encountered — with research-backed fixes and lessons learned. A personal knowledge base of real technical problems I've encountered — with research-backed fixes and lessons learned. Covers Windows OS recovery, Java EE GlassFish configuration, and more.  
 → [View repo](https://github.com/Lesego-Mowaisi/tech-troubleshooting)
 
 ---

@@ -40,4 +40,10 @@ Building toward a career in DevOps engineering post-graduation
 
 ---
 
+## 📊 GitHub Stats
+
+[![GitHub followers](https://img.shields.io/github/followers/Lesego-Mowaisi?style=social)](https://github.com/Lesego-Mowaisi)
+[![GitHub stars](https://img.shields.io/github/stars/Lesego-Mowaisi?style=social)](https://github.com/Lesego-Mowaisi)
+[![Profile Views](https://komarev.com/ghpvc/?username=Lesego-Mowaisi&color=blue)](https://github.com/Lesego-Mowaisi)
+
 📍 Polokwane, ZA &nbsp;|&nbsp; 🎓 TUT - 4th year &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/lesegomowaisi)

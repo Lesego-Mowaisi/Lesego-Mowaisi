@@ -33,7 +33,7 @@ Enterprise-grade POPI Act / GDPR "Right to be Forgotten" deletion engine built w
 - **Focus:** Enterprise data deletion compliance, POPI Act, EJB transactions
 - **Tech Stack:** Java EE, GlassFish, JPA/EclipseLink
 - **Status:** 🟢 V1 Complete
-- **Link:** [View repo](https://github.com/Lesego-Mowaisi/gdpr-deletion-engine)
+- **Link:** [View repo](https://github.com/Lesego-Mowaisi/popi-gdpr-deletion-engine)
 
 ---
 

@@ -1,5 +1,4 @@
 # Hi, I'm Lesego Mowaisi 👋
-
 Diploma in Computer Science · TUT Faculty of ICT  
 Aspiring DevOps engineer — bridging development, deployment, and automation  
 
@@ -30,21 +29,21 @@ A personal knowledge base of real technical problems I've encountered — with r
 <br/>
 
 ### 💾 GDPR Deletion Engine
-*Currently in development*
-- **Focus:** Enterprise data deletion compliance systems
-- **Tech Stack:** Java, GlassFish, JSP
-- **Status:** 🟡 In Progress
-- **Privacy:** Private repository
+Enterprise-grade POPI Act / GDPR "Right to be Forgotten" deletion engine built with Java EE. Processes data deletion requests in a single atomic transaction with full audit logging for legal compliance.
+- **Focus:** Enterprise data deletion compliance, POPI Act, EJB transactions
+- **Tech Stack:** Java EE, GlassFish, JPA/EclipseLink
+- **Status:** 🟢 V1 Complete
+- **Link:** [View repo](https://github.com/Lesego-Mowaisi/gdpr-deletion-engine)
 
 ---
 
 ## Currently
 
 **🟢 Completing 4th year** — Diploma in Computer Science, TUT  
-Modules:`MOB316D (Kotlin/Jetpack)` · `INT316D (Java EE Web Development)`
+Modules: `MOB316D (Kotlin/Jetpack)` · `INT316D (Java EE Web Development)`
 
-**🟡 WIL placement upcoming** — CXIA Africa (Centre for Digital Transformation & Innovation Africa)
-· Polokwane · 2026
+**🟡 WIL placement** — Actively seeking a host company for 2nd semester 2026  
+Open to IT, software development, or DevOps-adjacent placements · Pretoria / Remote
 
 **🟣 Exploring DevOps** — CI/CD, pipelines, automation, and cloud concepts  
 Building toward a career in DevOps engineering post-graduation

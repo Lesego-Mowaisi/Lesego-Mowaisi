@@ -14,7 +14,7 @@ Aspiring DevOps engineer — bridging development, deployment, and automation
 
 | Mobile | Enterprise web | Cloud / DevOps | Data / other |
 |---|---|---|---|
-| · Kotlin *(learning)*<br>· Jetpack Compose *(learning)*<br>· Android Studio | · JEE/MVC *(in progress)*<br>· JSP / Servlets<br>· NetBeans IDE | · DevOps *(exploring)*<br>· Linux *(exploring)* | · SQL *(used in projects)*<br>· Technical writing<br>· OOP (Java)|
+| · Android Studio | · Java EE (EJB, JPA, Servlets)<br>· JSP | · DevOps *(exploring)*<br>· Linux *(basic)* | · SQL<br>· Technical writing<br>· OOP (Java) |
 
 ---
 
@@ -34,6 +34,7 @@ Enterprise-grade POPI Act / GDPR "Right to be Forgotten" deletion engine built w
 - **Tech Stack:** Java EE, GlassFish, JPA/EclipseLink
 - **Status:** 🟢 V1 Complete
 - **Link:** [View repo](https://github.com/Lesego-Mowaisi/popi-gdpr-deletion-engine)
+- **Key file:** [`POPIDeletionEngine.java`](https://github.com/Lesego-Mowaisi/popi-gdpr-deletion-engine/blob/main/src/java/com/popi/engine/POPIDeletionEngine.java)
 
 ---
 

@@ -28,7 +28,7 @@ A personal knowledge base of real technical problems I've encountered — with r
 
 <br/>
 
-### 💾 GDPR Deletion Engine
+### 💾 POPI/GDPR Deletion Engine
 Enterprise-grade POPI Act / GDPR "Right to be Forgotten" deletion engine built with Java EE. Processes data deletion requests in a single atomic transaction with full audit logging for legal compliance.
 - **Focus:** Enterprise data deletion compliance, POPI Act, EJB transactions
 - **Tech Stack:** Java EE, GlassFish, JPA/EclipseLink
@@ -43,7 +43,7 @@ Enterprise-grade POPI Act / GDPR "Right to be Forgotten" deletion engine built w
 Modules: `MOB316D (Kotlin/Jetpack)` · `INT316D (Java EE Web Development)`
 
 **🟡 WIL placement** — Actively seeking a host company for 2nd semester 2026  
-Open to IT, software development, or DevOps-adjacent placements · Pretoria / Remote
+Open to IT, software development, or DevOps-adjacent placements 
 
 **🟣 Exploring DevOps** — CI/CD, pipelines, automation, and cloud concepts  
 Building toward a career in DevOps engineering post-graduation

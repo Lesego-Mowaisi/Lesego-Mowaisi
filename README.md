@@ -1,66 +1,82 @@
 # Hi, I'm Lesego Mowaisi 👋
-Diploma in Computer Science · TUT Faculty of ICT  
-Aspiring DevOps engineer — bridging development, deployment, and automation  
+
+**4th-year Computer Science · TUT · Full-stack & enterprise web · WIL 2026**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-lesego--mowaisi.github.io-2563eb?style=for-the-badge&logo=githubpages&logoColor=white)](https://lesego-mowaisi.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesegomowaisi)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesegomowaisi27@gmail.com)
+
+🌐 **Portfolio:** [lesego-mowaisi.github.io](https://lesego-mowaisi.github.io) — projects, stack, and contact in one place.
 
 ---
 
 ## About me
 
-4th-year student at TUT with a growing interest in DevOps — the intersection of development, automation, and deployment. My academic background spans Android development (Kotlin, Jetpack Compose) and enterprise web systems (Java EE, JSP/Servlets), which gives me a solid appreciation of what DevOps pipelines actually serve. I document real problems I solve, commit to learning in public, and am actively building toward a career in DevOps engineering.
+Final-year student at **Tshwane University of Technology** building production-minded software: enterprise **Java EE** backends, modern **HTML/CSS/JavaScript** frontends, and growing experience with **Supabase**, APIs, and **DevOps** practices.
+
+I document real problems I solve, commit to **learning in public**, and I'm actively seeking a **Work Integrated Learning (WIL)** placement for **2nd semester 2026** — full-stack, software development, or DevOps-adjacent roles.
+
+📍 Polokwane, South Africa · Remote-friendly
 
 ---
 
 ## Skills
 
-| Mobile | Enterprise web | Cloud / DevOps | Data / other |
-|---|---|---|---|
-| · Android Studio | · Java EE (EJB, JPA, Servlets)<br>· JSP | · DevOps *(exploring)*<br>· Linux *(basic)* | · SQL<br>· Technical writing<br>· OOP (Java) |
+| Front-end & web | Enterprise back-end | Tools & delivery |
+| --- | --- | --- |
+| HTML, CSS, JavaScript | Java EE (EJB, JPA, Servlets) | Git & GitHub |
+| Responsive UI, accessibility | REST APIs, MySQL | GlassFish, NetBeans |
+| *(learning Supabase)* | POPI/GDPR-aware system design | Technical writing |
+| | JSP, plugin architectures | Linux *(basic)* · CI/CD *(exploring)* |
+
+| Mobile | Other |
+| --- | --- |
+| Android Studio, Kotlin, Jetpack Compose | SQL · OOP (Java) · Markdown docs |
 
 ---
 
-## 🚀 Projects
+## Projects
+
+### 🌐 Portfolio site
+Personal portfolio — featured work, technology stack, and contact for recruiters and WIL coordinators.
+
+- **Stack:** HTML, CSS, JavaScript · GitHub Pages
+- **Live:** [lesego-mowaisi.github.io](https://lesego-mowaisi.github.io)
+- **Source:** [Lesego-Mowaisi.github.io](https://github.com/Lesego-Mowaisi/Lesego-Mowaisi.github.io) *(if published)*
+
+### 💾 POPI / GDPR Deletion Engine
+Enterprise **"Right to be Forgotten"** engine — atomic EJB transactions, JPA persistence, plugin architecture, and audit logging for compliance.
+
+- **Stack:** Java EE · GlassFish · JPA/EclipseLink
+- **Status:** V1 complete
+- **Repo:** [popi-gdpr-deletion-engine](https://github.com/Lesego-Mowaisi/popi-gdpr-deletion-engine)
+- **Highlight:** [`POPIDeletionEngine.java`](https://github.com/Lesego-Mowaisi/popi-gdpr-deletion-engine/blob/main/src/java/com/popi/engine/POPIDeletionEngine.java)
 
 ### 📚 Tech Troubleshooting
-A personal knowledge base of real technical problems I've encountered — with research-backed fixes and lessons learned. Covers Windows OS recovery, Java EE GlassFish configuration, and more.
-- **Focus:** System Administration, Enterprise Web Development
-- **Status:** 🟢 Active & Growing
-- **Link:** [View repo](https://github.com/Lesego-Mowaisi/tech-troubleshooting)
+Knowledge base of real issues I've solved — Windows recovery, GlassFish port conflicts, and more — with research-backed fixes.
 
-<br/>
-
-### 💾 POPI/GDPR Deletion Engine
-Enterprise-grade POPI Act / GDPR "Right to be Forgotten" deletion engine built with Java EE. Processes data deletion requests in a single atomic transaction with full audit logging for legal compliance.
-- **Focus:** Enterprise data deletion compliance, POPI Act, EJB transactions
-- **Tech Stack:** Java EE, GlassFish, JPA/EclipseLink
-- **Status:** 🟢 V1 Complete
-- **Link:** [View repo](https://github.com/Lesego-Mowaisi/popi-gdpr-deletion-engine)
-- **Key file:** [`POPIDeletionEngine.java`](https://github.com/Lesego-Mowaisi/popi-gdpr-deletion-engine/blob/main/src/java/com/popi/engine/POPIDeletionEngine.java)
+- **Focus:** System administration · Java EE · technical writing
+- **Status:** Active & growing
+- **Repo:** [tech-troubleshooting](https://github.com/Lesego-Mowaisi/tech-troubleshooting)
 
 ---
 
 ## Currently
 
-**🟢 Completing 4th year** — Diploma in Computer Science, TUT  
-Modules: `MOB316D (Kotlin/Jetpack)` · `INT316D (Java EE Web Development)`
-
-**🟡 WIL placement** — Actively seeking a host company for 2nd semester 2026  
-Open to IT, software development, or DevOps-adjacent placements 
-
-**🟣 Exploring DevOps** — CI/CD, pipelines, automation, and cloud concepts  
-Building toward a career in DevOps engineering post-graduation
+| | |
+| --- | --- |
+| 🟢 **Studies** | 4th year — Diploma in Computer Science, TUT (`MOB316D` · `INT316D`) |
+| 🟡 **WIL 2026** | Seeking placement — full-stack, software dev, or DevOps-adjacent |
+| 🟣 **Building** | Portfolio, Supabase/full-stack skills, CI/CD & automation |
 
 ---
 
-## 📊 GitHub Stats
+## Let's connect
 
-[![GitHub followers](https://img.shields.io/github/followers/Lesego-Mowaisi?style=social)](https://github.com/Lesego-Mowaisi)
-[![GitHub stars](https://img.shields.io/github/stars/Lesego-Mowaisi?style=social)](https://github.com/Lesego-Mowaisi)
-[![Profile Views](https://komarev.com/ghpvc/?username=Lesego-Mowaisi&color=blue)](https://github.com/Lesego-Mowaisi)
+Open to collaboration, WIL opportunities, and technical discussions.
 
----
-
-💬 **Let's Connect!** — Always open to collaborating on projects, discussing DevOps, or helping with technical challenges.
+📧 [lesegomowaisi27@gmail.com](mailto:lesegomowaisi27@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/lesegomowaisi) · 🌐 [Portfolio](https://lesego-mowaisi.github.io) · 🐙 [GitHub](https://github.com/Lesego-Mowaisi)
 
 ---
 
-📍 Polokwane, ZA &nbsp;|&nbsp; 🎓 TUT - 4th year &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/lesegomowaisi)
+<sub>Profile views</sub> ![Profile views](https://komarev.com/ghpvc/?username=Lesego-Mowaisi&color=2563eb)

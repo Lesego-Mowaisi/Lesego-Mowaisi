@@ -42,7 +42,7 @@ Personal portfolio — featured work, technology stack, and contact for recruite
 
 - **Stack:** HTML, CSS, JavaScript · GitHub Pages
 - **Live:** [lesego-mowaisi.github.io](https://lesego-mowaisi.github.io)
-- **Source:** [Lesego-Mowaisi.github.io](https://github.com/Lesego-Mowaisi/Lesego-Mowaisi.github.io) *(if published)*
+- **Source:** [Lesego-Mowaisi.github.io](https://github.com/Lesego-Mowaisi/Lesego-Mowaisi.github.io)
 
 ### 💾 POPI / GDPR Deletion Engine
 Enterprise **"Right to be Forgotten"** engine — atomic EJB transactions, JPA persistence, plugin architecture, and audit logging for compliance.
